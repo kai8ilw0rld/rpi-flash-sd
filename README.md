@@ -97,12 +97,6 @@ A one-shot systemd service (`rpi-firstboot.service`) handles the first-boot step
 
 ## Compatibility
 
-Tested on:
-
-| Image | Result |
-| --- | --- |
-| _fill in, e.g. Raspberry Pi OS Bookworm (64-bit)_ | _fill in_ |
-
 Newer Raspberry Pi OS releases may use different first-boot mechanisms (for example cloud-init). If something doesn't apply on a newer image, please open an issue with the image name and version.
 
 ## Troubleshooting
